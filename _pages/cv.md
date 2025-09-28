@@ -63,11 +63,10 @@ Hybrid-focused professional and researcher blending **data analytics, UI/UX desi
 -Personalized Learning Recommendation Engine: Recommender system for adaptive e-learning platforms.
 
 ## Projects
-| Project | Description | Technologies / Features |
-|---|---|---|
-| **ABS-NFT Platform** | A decentralized NFT marketplace platform allowing minting, trading, and collection management. | Blockchain, smart contracts, web3, frontend UI, token standards |
-| **Blockchain-Based Cryptocurrency Platform** | Full-featured crypto system including token issuance, wallet transactions, and ledger operations. | Cryptography, consensus logic, wallet integration |
-| **Bank Account System** | A system to manage bank accounts, transactions, balance operations, and user interface. | Backend API, data persistence, transaction logic, security |
+
+ **ABS-NFT Platform**  A decentralized NFT marketplace platform allowing minting, trading, and collection management. Blockchain, smart contracts, web3, frontend UI, token standards 
+ **Blockchain-Based Cryptocurrency Platform**  Full-featured crypto system including token issuance, wallet transactions, and ledger operations.  Cryptography, consensus logic, wallet integration 
+ **Bank Account System**  A system to manage bank accounts, transactions, balance operations, and user interface.  Backend API, data persistence, transaction logic, security 
 
 ## Skills
 - **Programming Languages:** Python, Java, C, C++, HTML, CSS  

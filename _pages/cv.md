@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="display: flex; justify-content: flex-end;">
-  <a href="files/Resume_AlviHasanEmon.pdf/" class="btn btn-primary" download>Download CV (PDF)</a>
+  <a href="https://mdalvihasanemon.github.io/files/Resume_AlviHasanEmon.pdf/" class="btn btn-primary" download>Download CV (PDF)</a>
 </div>
 
 ## Objective
@@ -54,7 +54,7 @@ Hybrid-focused professional and researcher blending **data analytics, UI/UX desi
 ## Ongoing & Future Research
 - Zero-Knowledge Proofs for Ethical and Sustainable Supply Chains (zkSync)  
 - IntelliDrug: AI-driven mapping of pathways in modern drug discovery  
-- Blockchain-Enabled Smart KYC in financial services  
+- Blockchain-Enabled Smart KYC in financial services 
 -Smart Home Energy Optimization: Applying IoT and machine learning to reduce energy consumption.
 -Cross-Lingual Sentiment Analysis: Using NLP to analyze sentiment across multiple languages.
 -Blockchain-Based Supply Chain Auditing: Leveraging decentralized ledgers to track product origin and authenticity.
@@ -78,8 +78,6 @@ Hybrid-focused professional and researcher blending **data analytics, UI/UX desi
 - **Software Tools:** LaTeX, VOSviewer, Bibexcel, Matlab, Codeblocks, Pycharm, Prolog  
 - **Networking:** Cisco Packet Tracer  
 
-## Language Proficiency
-## IELTS Academic:** Overall band score - 8; Listening - 8.5, Reading - 8.0, Writing - 7.0, Speaking - 7.5
 
 ## Awards and Achievements
 - **Departmental Excellence Award in Blockchain Research – 2025**  

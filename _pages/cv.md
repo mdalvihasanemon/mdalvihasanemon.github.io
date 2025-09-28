@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div style="display: flex; justify-content: flex-end;">
-  <a href="https://mdalvihasanemon.github.io/files/Resume_AlviHasanEmon.pdf/" class="btn btn-primary" download>Download CV (PDF)</a>
+ <a href="https://mdalvihasanemon.github.io/files/Resume_AlviHasanEmon.pdf" class="btn btn-primary" download>Download CV (PDF)</a>
 </div>
 
 ## Objective
